@@ -1,0 +1,3 @@
+<Directory "/path/to/flarum/public">
+    AllowOverride All
+</Directory>
